@@ -10,14 +10,13 @@ Swagger file can be accessed using the following url's:
 ## Postman Collection
 Some of the important endpoints has been added to the postman collection: HSE Postman.postman_collection
 
-##TODO
+## TODO
 * Add Security
 * Add junits
 * Improve logging
 * Improve Readme
 
 ## Technologies
-
 * Java 8
 * Spring Boot
 * Spring Web / MVC
