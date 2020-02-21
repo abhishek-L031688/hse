@@ -14,6 +14,7 @@ Some of the important endpoints has been added to the postman collection: HSE Po
 * Add Security
 * Add junits
 * Improve logging
+* Improve Readme
 
 ## Technologies
 
